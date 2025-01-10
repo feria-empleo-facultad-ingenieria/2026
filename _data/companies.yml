@@ -601,18 +601,18 @@ companies:
 #   heightStyle: height:120px
 #   column: 2
 
-# - siteurl: https://careers.niagarawater.com/us/en
-#   logourl: images/companies/niagara.jpeg
-#   name: Niagara
-#   carreras: TODAS LAS CARRERAS
-#   teaser: Although we’ve experienced rapid growth over the last 55 years, our family tradition of high quality, value priced bottled water will never change 
-#   abstract: Although we’ve experienced rapid growth over the last 55 years, our family tradition of high quality, value priced bottled water will never change. Through innovation and hard work, Niagara is a leading private label beverage company in the United States.  
-#   stand: S/A
-#   height1: 30px
-#   height: 50px
-#   heightStand: 30px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://careers.niagarawater.com/us/en
+  logourl: images/companies/niagara.jpeg
+  name: Niagara
+  carreras: TODAS LAS CARRERAS
+  teaser: Although we’ve experienced rapid growth over the last 55 years, our family tradition of high quality, value priced bottled water will never change 
+  abstract: Although we’ve experienced rapid growth over the last 55 years, our family tradition of high quality, value priced bottled water will never change. Through innovation and hard work, Niagara is a leading private label beverage company in the United States.  
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 30px
+  heightStyle: height:50px
+  column: 2
 
 # - siteurl: https://www.nissan.com.mx/corporate/trabaja-en-nissan.html
 #   logourl: images/companies/nissan.png
