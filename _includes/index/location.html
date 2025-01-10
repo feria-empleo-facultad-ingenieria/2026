@@ -1,0 +1,57 @@
+<section class="aos-init aos-animate">
+
+  <div class="row">
+
+    <div class="col-md-8" data-aos="fade-up">
+      <div class="card flex-md-row mb-4 box-shadow">
+        <div class="card-body d-flex flex-column align-items-start">
+          <h3 class="mb-0">
+            <strong class="d-inline-block mb-2 text-primary">{{ site.data.generalinfo.como_llegar }}</strong>
+          </h3>
+          <a target="_blank"  href="https://www.google.com/maps?ll=19.325705,-99.182213&z=15&t=m&hl=en-US&gl=MX&mapclient=embed&cid=12589897597017562439">
+            <i class="icon-map-marker" aria-hidden="TRUE"></i>
+            {{ site.data.generalinfo.google_maps }}
+          </a>
+          <br />
+          <p class="card-text mb-auto">
+            <a target="_blank" href="{{ site.data.generalinfo.index_metro_url }}" parent="_blank">
+              <i class="icon-ticket" aria-hidden="TRUE"></i>
+              {{ site.data.generalinfo.index_metro_title }}
+            </a><br>
+            <a target="_blank" href="{{ site.data.generalinfo.index_metrobus_url }}" parent="_blank">
+              <i class="icon-road" aria-hidden="TRUE"></i>
+              {{ site.data.generalinfo.index_metrobus_title }}
+            </a>
+          </p>
+          <div class="mb-1 text-muted"><h5 class="primary-color">{{ site.data.generalinfo.transporte_publico }}</h5></div>
+          
+          <p class="card-text mb-auto">
+            <a target="_blank" href="http://www.pumabus.unam.mx/" parent="_blank">
+              <i class="icon-map" aria-hidden="TRUE"></i>
+              {{ site.data.generalinfo.pumabus }}
+            </a>
+          </p>
+          <div class="mb-1 text-muted"><h5 class="primary-color">{{ site.data.generalinfo.transporte_publico }}</h5></div>
+          
+        </div>
+        <iframe class="card-img-right flex-auto d-none d-md-block" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.8721809638523!2d-99.1844845!3d19.331351999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0020ce0c7dc9%3A0xa56d188ae95369f0!2sUNAM+Facultad+de+Ingenier%C3%ADa!5e0!3m2!1ses!2smx!4v1441848297372" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+    </div>
+    <div class="col-sm-4" data-aos="fade-up">
+      <div class="card mb-4 shadow-sm">
+        <div class="card-header">
+          <h3 class="mb-0">
+            <strong class="d-inline-block mb-2 text-primary">{{ site.data.generalinfo.noticias }}</strong>
+          </h3>
+        </div>
+        <div class="card-body">
+          <div class="col-12">
+            <p>{{ site.data.generalinfo.noticia01 }}</p>
+            <p>{{ site.data.generalinfo.noticia02 }}</p>
+            <p>{{ site.data.generalinfo.noticia03 }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

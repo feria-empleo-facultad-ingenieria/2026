@@ -143,11 +143,11 @@ companies:
   logourl: images/companies/cia2.jpg
   name: Cia de Talentos
   carreras: TODAS LAS CARRERAS
-  teaser: Conectamos a los mejores talentos con las mejores oportunidades.
+  teaser: Conectamos a los mejores talentos con las mejores oportunidades
   abstract: Conectamos a los mejores talentos con las mejores oportunidades, y desarrollamos tanto empresas como personas para que alcancen, todos los días, la mejor versión de sí mismos. El Grupo Cia de Talentos es mucho más que una consultora de selección y desarrollo somos una empresa de educación para la carrera. Creemos en el potencial de todos en cada uno siempre existe un talento capaz de transformar y movilizar a las empresas y a la sociedad. Para eso trabajamos.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 40px
   heightStand: 60px
   heightStyle: height:80px
   column: 1
@@ -237,7 +237,7 @@ companies:
   abstract: Por 100 años Grupo Infra ha sido protagonista de la transformación de México. Siendo parte esencial del que hacer y del desarrollo en el sector industrial y de salud en nuestro país.
   stand: S/A
   height1: 30px
-  height: 80px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
@@ -441,7 +441,7 @@ companies:
   abstract: Estamos comprometidos con las asociaciones impulsadas por el valor con nuestros clientes al brindar servicios de la más alta calidad, seguridad e integridad, al tiempo que nos enfocamos en la satisfacción del cliente y las soluciones innovadoras. Nos esforzamos por ser la empresa con la que los clientes quieren trabajar y para la que los empleados quieren trabajar, proporcionando excelentes resultados y carreras gratificantes.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 1
@@ -544,7 +544,7 @@ companies:
   abstract: ICA Fluor es el contratista IPC líder en México con servicios orientados a resultados de nivel mundial tales como; estudios de viabilidad, estudios pre-inversión, ingeniería financiera, permisos, servicios ambientales, gestión de proyectos, diseño conceptual y preliminar, procuración, construcción, puesta en marcha, transferencia y operaciones de apoyo a sus clientes.
   stand: S/A
   height1: 40px
-  height: 80px
+  height: 60px
   heightStand: 40px
   heightStyle: height:50px
   column: 2
@@ -583,7 +583,7 @@ companies:
   abstract: "In order to be where our machines and lines produce beverages and liquid food every day, we have built up a strong international network: Around 17,200 people work for Krones in more than 100 countries around the world - more than 10,100 of them in Germany. In addition to the headquarters in Neutraubling, Krones operates plants in Nittenau, Rosenheim and Flensburg."
   stand: S/A
   height1: 40px
-  height: 60px
+  height: 40px
   heightStand: 40px
   heightStyle: height:50px
   column: 2

@@ -1,0 +1,33 @@
+<section>
+  <div class="row aos-init aos-animate">
+
+    <div class="col-xs-12 col-md-6">
+      <div data-aos="fade-up">
+        <h3 class="text-primary">{{ site.data.generalinfo.grl-expoTitle }}</h3>				
+        <p>{{ site.data.generalinfo.main-expoTitle}}</p>
+        <p>{{ site.data.generalinfo.main-anounce}}</p>
+        <p>{{ site.data.generalinfo.main-openning}}</p>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-6">
+      <div data-aos="fade-up">
+        <div class="stands-slider swiper swiper-initialized swiper-horizontal">
+          
+          <div class="swiper-wrapper align-items-center" id="swiper-wrapper-2eeb9cabadd9643e" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-1692px, 0px, 0px); transition-delay: 0ms;">
+            {% assign counter = 0 %}
+            {% assign total = site.data.feria.photos | size %}
+            {% for pic in site.data.feria.photos %}
+            <div class="swiper-slide" role="group" aria-label="{{counter}} / {{total}}" style="width: 400px !important;" data-swiper-slide-index="{{ counter++ }}">
+              <img src="{{ pic.url }}" style="width: 400px;" class="img-fluid" alt="">
+            </div>
+            {% endfor %}
+          </div>
+          
+          <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+

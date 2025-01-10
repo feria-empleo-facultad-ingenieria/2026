@@ -1,0 +1,117 @@
+/*
+ROJO: #cd171e
+NEGRO: #333
+AZUL: #185ec6
+*/
+.text-primary{
+  color:#2b5d9f !important;
+}
+.btn-primary{
+  background-color:#1a3d6c !important;
+  border-color:#2b5d9f !important;
+}
+.btn-outline-primary{
+  border-color:#2b5d9f !important;
+  color:#2b5d9f !important;
+}
+.btn-outline-primary:hover{
+  background-color:#1a3d6c !important;
+  color:#FFF !important;
+}
+.rombocontainer{
+  margin-top: -54px !important;
+}
+@media (max-width: 576px) { 
+  .rombocontainer{
+    margin-top: 0 !important;
+    width: 320px !important;
+    height: 340px !important;
+  }
+}
+.card-marcas{
+  margin: 0px;
+  padding: 0px;
+}
+.section{
+  margin-top: 3px;
+  margin-bottom: 15px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+.iconos{
+  width: 100%; 
+  text-align: center !important;
+  line-height: normal !important;
+}
+.iconos i:hover{
+  font-size: 58px;
+  color:#1a3d6c !important;
+}
+
+.iconos a span{
+  font-size:9px;
+  text-transform: uppercase;
+}
+.iconos i{
+  padding-top: 10px;
+  font-size: 58px;
+  color: #cd171e
+}
+.lineferia{
+  background-color: #cd171e;
+  border-color:#cd171e;
+}
+#mainheader h4 span{
+  color: #185ec6
+}
+#mainheader h6 span{
+  color: #f1e1e2
+}
+
+.hex2 {
+  float: left;
+  margin-right: -26px;
+  margin-bottom: -50px;
+}
+.hex2 .left {
+  float: left;
+  width: 0;
+  border-right: 30px solid #FFF;
+  border-top: 52px solid transparent;
+  border-bottom: 52px solid transparent;
+}
+.hex2 .middle {
+  float: left;
+  width: 60px;
+  height: 104px;
+  background: #FFF;
+  border-top: 1px solid #FFF;
+  border-bottom: 1px solid #FFF;
+}
+.hex2 .right {
+  float: left;
+  width: 0;
+  border-left: 30px solid #FFF;
+  border-top: 52px solid transparent;
+  border-bottom: 52px solid transparent;
+}
+.hex2-row {
+  clear: left;
+}
+.even2 {
+  margin-top: 53px;
+}
+.imggrow:hover{
+  transform: scale(1.5);
+}
+div.panelcustom {
+  background-color: #ffffff !important;
+  border: 1px #cd171e solid !important;
+}
+div.panelcustom a{
+  padding: 0px !important;
+  margin:0px !important;
+  height: 40px !important;
+  line-height: 0px !important;
+}
