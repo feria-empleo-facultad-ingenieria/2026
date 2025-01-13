@@ -2,7 +2,7 @@
 layout: default_newtemplate
 ---
 <section>
-  <div>
+  
     <div class="container">
       {% include index/about.html %}
 
@@ -34,7 +34,7 @@ layout: default_newtemplate
             <div class="row aos-init aos-animate">
               {% for company in site.data.companies.companies %}
               <div class="col-lg-4 col-md-12" data-aos="fade-up">
-                <div class="card text-center mb-4 shadow-sm" style="min-height: 400px;max-height:400px;">
+                <div class="card text-center mb-4 shadow-sm" style="min-height: 500px;max-height:500px;">
                   <!-- <img src="{{ company.logourl }}" class="card-img-top text-center" alt="{{ company.name }}" style="height:40px; width: 100px;" > -->
                   <div class="card-header text-right">
                     <p class="my-0 font-weight-normal"><strong>{{ company.name }}</strong></p>
@@ -55,32 +55,34 @@ layout: default_newtemplate
               {% endfor %}
             </div>
           </div>
-          <div class="row border">
-            <div class="col-lg-3 col-md-12"">
-              <aside class="widget ">
-                <h5 class="short_headline"><span>	Mapa stands </span></h5>
-                <p class="text-center"><a href="stands.html" class="btn custom-btn  btn-primary">Conoce el mapa de la feria aquí <i class=" e-icon-forward"></i></a></p> <br<br>
-              </aside>
-              <aside class="widget clearfix">
-                <h5 class="short_headline"><span>	¿Cómo llegar? </span></h5>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.8721809638523!2d-99.1844845!3d19.331351999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0020ce0c7dc9%3A0xa56d188ae95369f0!2sUNAM+Facultad+de+Ingenier%C3%ADa!5e0!3m2!1ses!2smx!4v1441848297372" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
-                <h5 class="primary-color">Transporte público</h5>
-                <p>
-                  <a href="{{ site.data.generalinfo.index_metro_url }}" parent="_blank">{{ site.data.generalinfo.index_metro_title }}</a>  | 
-                  <a href="{{ site.data.generalinfo.index_metro_url }}" parent="_blank">{{ site.data.generalinfo.index_metrobus_title }}</a>
-                </p>
-                <h5 class="primary-color">Transporte interno CU</h5>
-                <p><a href='http://www.pumabus.unam.mx/' parent='_blank'>Pumabus</a>: Ruta 1, ruta 7 y ruta 8 Parada Ingeniería</a>  </p>
-                <br><br>
-              </aside>
-              <aside class="widget clearfix">
-                <h5 class="short_headline"><span> Vacantes y anuncios </span></h5>
-                <div class="fb-page" data-href="https://www.facebook.com/bolsatrabajofi" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bolsatrabajofi"><a href="https://www.facebook.com/bolsatrabajofi">Visita la página de Facebook de Bolsa de Trabajo Facultad de Ingeniería UNAM</a></blockquote></div></div>
-              </aside>
-            </div>
+        </div>
+          <div class="col-lg-3 col-md-12 aos-init aos-animate">
+
+            <aside class="widget" data-aos="fade-up">
+              <h5 class="short_headline"><span>	Mapa stands </span></h5>
+              <p class="text-center"><a href="stands.html" class="btn custom-btn  btn-primary">Conoce el mapa de la feria aquí <i class=" e-icon-forward"></i></a></p> <br<br>
+            </aside>
+            <aside class="widget clearfix" data-aos="fade-up">
+              <h5 class="short_headline"><span>	¿Cómo llegar? </span></h5>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.8721809638523!2d-99.1844845!3d19.331351999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0020ce0c7dc9%3A0xa56d188ae95369f0!2sUNAM+Facultad+de+Ingenier%C3%ADa!5e0!3m2!1ses!2smx!4v1441848297372" width="100%" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <h5 class="primary-color">Transporte público</h5>
+              <p>
+                <a href="{{ site.data.generalinfo.index_metro_url }}" parent="_blank">{{ site.data.generalinfo.index_metro_title }}</a>  | 
+                <a href="{{ site.data.generalinfo.index_metro_url }}" parent="_blank">{{ site.data.generalinfo.index_metrobus_title }}</a>
+              </p>
+              <h5 class="primary-color">Transporte interno CU</h5>
+              <p><a href='http://www.pumabus.unam.mx/' parent='_blank'>Pumabus</a>: Ruta 1, ruta 7 y ruta 8 Parada Ingeniería</a>  </p>
+              <br><br>
+            </aside>
+            <aside class="widget clearfix" data-aos="fade-up">
+              <h5 class="short_headline"><span> Vacantes y anuncios </span></h5>
+              <div class="fb-page" data-href="https://www.facebook.com/bolsatrabajofi" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/bolsatrabajofi"><a href="https://www.facebook.com/bolsatrabajofi">Visita la página de Facebook de Bolsa de Trabajo Facultad de Ingeniería UNAM</a></blockquote></div></div>
+            </aside>
+            
           </div>
+          
         </div>
       </div>
     </div>
-  </div>
+  
 </section>
