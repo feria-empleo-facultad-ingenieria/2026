@@ -1,147 +1,296 @@
+fechas:
+- mes: Abril
+  dia: 28
+  dianombre: Lunes
+  year: 2026
+  lugar: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: Abril
+  dia: 28
+  dianombre: Lunes
+  year: 2026
+  lugar: Aula Magna
+  place_index: 2
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes
+  year: 2026
+  lugar: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
+- mes: Abril
+  dia: 29
+  dianombre: Martes
+  year: 2026
+  lugar: Aula Magna
+  place_index: 2
+
+
+
 platicas:
 
-- conferencista_foto: images/logo_feria_2025.jpeg
-  conferencista_linkedin: "Inauguración de la Feria del Empleo 2025"
+- conferencista_foto: images/logo_feria_2026.jpeg
+  conferencista_linkedin: "Inauguración de la Feria del Empleo 2026"
   conferencista_nombre: "Inauguración"
-  conferencia_nombre:  "Inauguración de la Feria del Empleo 2025"
+  conferencia_nombre:  "Inauguración de la Feria del Empleo 2026"
   conferencia_lugar: "Auditorio 'Javier Barros Sierra'"
   conferencia_hora: 10:00 – 10:15
   conferencia_abstract: "Con la presencia del Director de la Facultad"
-  conferencia_empresa: "Inauguración de la Feria 2025"
-  conferencia_fecha: 28 Abril 2025
+  conferencia_empresa: "Inauguración de la Feria 2026"
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 1
   image_width: 130
+  image_height: 70px
   image_flyer: ""
 
-# - conferencista_foto: images/companies/ford.png
-#   conferencista_linkedin: ""
-#   conferencista_nombre: FORD
-#   conferencia_nombre: "Atracción de talento Ford"
-#   conferencia_hora: 10:00 – 12:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  "¡Forma parte de nuestra nueva generación!"
-#   conferencia_empresa: FORD
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 130
-#   image_flyer: "images/companies/flyers/flyer_ford.jpeg"
 
-# - conferencista_foto: images/companies/huawei_final.png
-#   conferencista_linkedin: HUAWEI
-#   conferencista_nombre:  HUAWEI
-#   conferencia_nombre: Plática HUAWEI
-#   conferencia_hora: 12:00 – 14:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: HUAWEI
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 80
-#   image_flyer: "images/companies/flyers/flyer_huawei.jpg"
+- conferencista_foto: images/companies/ford.png
+  conferencista_linkedin: ""
+  conferencista_nombre: FORD
+  conferencia_nombre: "Atracción de talento Ford"
+  conferencia_hora: 10:00 – 12:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  "¡Forma parte de nuestra nueva generación!"
+  conferencia_empresa: FORD
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 1
+  image_width: 130
+  image_height: 30px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/krones.png
-#   conferencista_linkedin: ""
-#   conferencista_nombre: KRONES
-#   conferencia_nombre: "¡Forma parte de nuestra nueva generación!"
-#   conferencia_hora: 14:00 – 15:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  "Únete a Krones y desarrolla tu talento con nosotros"
-#   conferencia_empresa: KRONES
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 200
-#   image_flyer: "images/companies/flyers/flyer_krones.jpeg"
+- conferencista_foto: images/companies/huawei_final.png
+  conferencista_linkedin: HUAWEI
+  conferencista_nombre:  HUAWEI
+  conferencia_nombre: Plática HUAWEI
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: HUAWEI
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 1
+  image_width: 80
+  image_height: 50px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/quebec.jpg
-#   conferencista_linkedin: ""
-#   conferencista_nombre: quebec
-#   conferencia_nombre: "Oportunidades laborales en quebec"
-#   conferencia_hora: 14:00 – 16:00
-#   conferencia_lugar: Aula Magna
-#   conferencia_abstract:  "Conferencia sobre las oportunidades laborales en quebec, Canadá"
-#   conferencia_empresa: quebec
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 200
-#   image_flyer: "images/companies/flyers/flyer_quebec.jpg"
+- conferencista_foto: images/companies/gerdau.png
+  conferencista_linkedin: Gerdau Corsa
+  conferencista_nombre:  Gerdau Corsa
+  conferencia_nombre: Reclutamiento de Gerdau Corsa
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento de Gerdau Corsa
+  conferencia_empresa: Gerdau Corsa
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 2
+  image_width: 80
+  image_height: 20px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/faroprotec.png
-#   conferencista_linkedin: FARO PROTEC
-#   conferencista_nombre: Rafa Bretón
-#   conferencia_nombre: "Eleva tu nivel de Ciberseguridad"
-#   conferencia_hora: 15:00 – 16:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: FARO PROTEC
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 120
-#   image_flyer: "images/companies/flyers/flyer_faro.jpeg"
+- conferencista_foto: images/companies/CapitalOne.png
+  conferencista_linkedin: Capital One
+  conferencista_nombre:  Capital One
+  conferencia_nombre: Plática Capital One
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: Capital One
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 1
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/computra2.png
-#   conferencista_linkedin: Computrabajo
-#   conferencista_nombre: Computrabajo
-#   conferencia_nombre: Plática Computrabajo
-#   conferencia_hora: 16:00 – 18:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: Computrabajo
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 120
-#   image_flyer: "images/companies/flyers/flyer_computrabajo.jpeg"
+- conferencista_foto: images/companies/knightpiesold.png
+  conferencista_linkedin: Knight Piesold
+  conferencista_nombre:  Knight Piesold
+  conferencia_nombre: Reclutamiento Knight Piesold
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Knight Piesold
+  conferencia_empresa: Knight Piesold
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
 
-# - conferencista_foto: https://feria-backend-production.up.railway.app/bosh.jpg
-#   conferencista_linkedin: Bosch
-#   conferencista_nombre: Bosch
-#   conferencia_nombre: Atracción de talento de Bosch
-#   conferencia_hora: 18:00 – 20:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: Bosch
-#   conferencia_fecha: 28 Abril 2025
-#   image_width: 120
-#   image_flyer: "images/companies/flyers/flyer_bosch.jpg"
+- conferencista_foto: images/companies/audi.png
+  conferencista_linkedin: AUDI
+  conferencista_nombre:  AUDI
+  conferencia_nombre: Plática AUDI
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: AUDI
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 1
+  image_width: 100
+  image_height: 50px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/icafluor.jpg
-#   conferencista_linkedin: ICA FLUOR
-#   conferencista_nombre: "Ica Fluor"
-#   conferencia_nombre: "Talento de la Facultad de Ingeniería"
-#   conferencia_hora: 10:00 – 12:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: ICA FLUOR
-#   conferencia_fecha: 29 Abril 2025
-#   image_width: 130
-#   image_flyer: "images/companies/flyers/flyer_ica_fluor.jpeg"
+- conferencista_foto: images/companies/berman.jpeg
+  conferencista_linkedin: Karla Berman
+  conferencista_nombre:  Karla Berman
+  conferencia_nombre: 'Los 5 ingredientes de los unicornios'
+  conferencia_hora: 16:30 – 18:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  'Sobre Innovación y entrepreneurship'
+  conferencia_empresa: Karla Berman
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 1
+  image_width: 100
+  image_height: 0px
+  image_flyer: "images/companies/flyers/flyer_berman.jpeg"
+  conferencia_mId: berman
 
-# - conferencista_foto: https://www.cimesa.net/wp-content/uploads/sites/19/2022/11/Cimesa-h.jpg
-#   conferencista_linkedin: CIMESA
-#   conferencista_nombre: CIMESA
-#   conferencia_nombre: Plática CIMESA
-#   conferencia_hora: 12:00 – 14:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: CIMESA
-#   conferencia_fecha: 29 Abril 2025
-#   image_width: 140
-#   image_flyer: "images/companies/flyers/flyer_cimesa.jpg"
+- conferencista_foto: images/companies/amazon.svg
+  conferencista_linkedin: Amazon
+  conferencista_nombre:  Amazon
+  conferencia_nombre: Reclutamiento Amazon
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Amazon
+  conferencia_empresa: Amazon
+  conferencia_fecha: 28 Abril 2026
+  mes: Abril
+  dia: 28
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
 
-# - conferencista_foto: images/companies/zte.png
-#   conferencista_linkedin: Ing. Luis M. Olvera
-#   conferencista_nombre: "Ing. Luis M. Olvera"
-#   conferencia_nombre: "Inteligencias Artificiales en las era 5G"
-#   conferencia_hora: 14:00 – 16:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  "Explorando los modelos de la IA que pontencian la red. Asiste y conoce los retos que encontrarás en ZTE"
-#   conferencia_empresa: ZTE
-#   conferencia_fecha: 29 Abril 2025
-#   image_width: 80
-#   image_flyer: "images/companies/flyers/flyer_zte.jpeg"
 
-# - conferencista_foto: images/companies/audi.png
-#   conferencista_linkedin: AUDI
-#   conferencista_nombre:  AUDI
-#   conferencia_nombre: Plática AUDI
-#   conferencia_hora: 16:00 – 18:00
-#   conferencia_lugar: Auditorio "Javier Barros Sierra"
-#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-#   conferencia_empresa: AUDI
-#   conferencia_fecha: 29 Abril 2025
-#   image_width: 100
-#   image_flyer: "images/companies/flyers/flyer_audi.jpg"
+- conferencista_foto: images/companies/icafluor.jpg
+  conferencista_linkedin: ICA FLUOR
+  conferencista_nombre: "Ica Fluor"
+  conferencia_nombre: "Talento de la Facultad de Ingeniería"
+  conferencia_hora: 10:00 – 12:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: ICA FLUOR
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 1
+  image_width: 130
+  image_height: 40px
+  image_flyer: "images/companies/flyers/flyer_ica_fluor.jpg"
+  conferencia_mId: icafluor
+
+- conferencista_foto: images/companies/gmexico.svg
+  conferencista_linkedin: ""
+  conferencista_nombre: Grupo México
+  conferencia_nombre: "¡Forma parte de nuestra nueva generación!"
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  "Únete y desarrolla tu talento con nosotros"
+  conferencia_empresa: Grupo México
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 1
+  image_width: 200
+  image_height: 30px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/motaengine.png
+  conferencista_linkedin: Mota-Engil
+  conferencista_nombre:  Mota-Engil
+  conferencia_nombre: Reclutamiento Mota-Engil
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Mota-Engil
+  conferencia_empresa: Mota-Engil
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 2
+  image_width: 80
+  image_height: 80px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/ey_logo.svg
+  conferencista_linkedin: ey
+  conferencista_nombre: EY
+  conferencia_nombre: "Talento de la Facultad de Ingeniería"
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  "Forma parte de nuestra nueva generación!"
+  conferencia_empresa: EY
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 1
+  image_width: 80
+  image_height: 60px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/micron.png
+  conferencista_linkedin: Micron
+  conferencista_nombre:  Micron
+  conferencia_nombre: Reclutamiento Micron
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Micron
+  conferencia_empresa: Micron
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 2
+  image_width: 80
+  image_height: 20px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/zte.png
+  conferencista_linkedin: ZTE
+  conferencista_nombre: "ZTE"
+  conferencia_nombre: "Sesión de reclutamiento"
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  "Sesión de reclutamiento"
+  conferencia_empresa: ZTE
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 1
+  image_width: 80
+  image_height: 20px
+  image_flyer: ""
+
+
+- conferencista_foto: images/companies/amazon.svg
+  conferencista_linkedin: Amazon
+  conferencista_nombre:  Amazon
+  conferencia_nombre: Reclutamiento Amazon
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Amazon
+  conferencia_empresa: Amazon
+  conferencia_fecha: 29 Abril 2026
+  mes: Abril
+  dia: 29
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
+
 
 
