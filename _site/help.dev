@@ -3,5 +3,11 @@ bundle exec jekyll serve
 git init                                     
 git status
 git add .
-git commit -m "first Change 07-JAN-2026 v1.0.0"
+git commit -m "first Change 29-NOV-2025 v1.0.0"
+git push origin gh-pages
+
+it init                                     
+git status
+git add .
+git commit -m "first Change 29-NOV-2025 v1.0.0"
 git push origin gh-pages

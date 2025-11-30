@@ -1,27 +1,27 @@
 fechas:
-- mes: Abril
-  dia: 28
+- mes: Mayo
+  dia: 11
   dianombre: Lunes
   year: 2026
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: Abril
-  dia: 28
+- mes: Mayo
+  dia: 11
   dianombre: Lunes
   year: 2026
   lugar: Aula Magna
   place_index: 2
 
-- mes: Abril
-  dia: 29
+- mes: Mayo
+  dia: 12
   dianombre: Martes
   year: 2026
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: Abril
-  dia: 29
+- mes: Mayo
+  dia: 12
   dianombre: Martes
   year: 2026
   lugar: Aula Magna
@@ -39,9 +39,9 @@ platicas:
   conferencia_hora: 10:00 – 10:15
   conferencia_abstract: "Con la presencia del Director de la Facultad"
   conferencia_empresa: "Inauguración de la Feria 2026"
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 1
   image_width: 130
   image_height: 70px
@@ -56,9 +56,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "¡Forma parte de nuestra nueva generación!"
   conferencia_empresa: FORD
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 1
   image_width: 130
   image_height: 30px
@@ -72,9 +72,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: HUAWEI
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 1
   image_width: 80
   image_height: 50px
@@ -88,9 +88,9 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento de Gerdau Corsa
   conferencia_empresa: Gerdau Corsa
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 2
   image_width: 80
   image_height: 20px
@@ -104,9 +104,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: Capital One
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 1
   image_width: 80
   image_height: 40px
@@ -120,9 +120,9 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Knight Piesold
   conferencia_empresa: Knight Piesold
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 2
   image_width: 80
   image_height: 40px
@@ -136,9 +136,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: AUDI
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 1
   image_width: 100
   image_height: 50px
@@ -152,9 +152,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  'Sobre Innovación y entrepreneurship'
   conferencia_empresa: Karla Berman
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 1
   image_width: 100
   image_height: 0px
@@ -169,9 +169,9 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Amazon
   conferencia_empresa: Amazon
-  conferencia_fecha: 28 Abril 2026
-  mes: Abril
-  dia: 28
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
   place_index: 2
   image_width: 80
   image_height: 40px
@@ -186,9 +186,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: ICA FLUOR
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 1
   image_width: 130
   image_height: 40px
@@ -203,9 +203,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Únete y desarrolla tu talento con nosotros"
   conferencia_empresa: Grupo México
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 1
   image_width: 200
   image_height: 30px
@@ -219,9 +219,9 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Mota-Engil
   conferencia_empresa: Mota-Engil
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 2
   image_width: 80
   image_height: 80px
@@ -235,9 +235,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Forma parte de nuestra nueva generación!"
   conferencia_empresa: EY
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 1
   image_width: 80
   image_height: 60px
@@ -251,9 +251,9 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Micron
   conferencia_empresa: Micron
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 2
   image_width: 80
   image_height: 20px
@@ -267,9 +267,9 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Sesión de reclutamiento"
   conferencia_empresa: ZTE
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 1
   image_width: 80
   image_height: 20px
@@ -284,9 +284,9 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Amazon
   conferencia_empresa: Amazon
-  conferencia_fecha: 29 Abril 2026
-  mes: Abril
-  dia: 29
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
   place_index: 2
   image_width: 80
   image_height: 40px

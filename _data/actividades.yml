@@ -1,35 +1,35 @@
 fechas:
-- mes: Abril
-  dia: 28
+- mes: Mayo
+  dia: 11
   dianombre: Lunes
   year: 2026
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: Abril
-  dia: 28
+- mes: Mayo
+  dia: 11
   dianombre: Lunes
   year: 2026
   lugar: Aula Magna
   place_index: 2
 
-- mes: Abril
-  dia: 29
+- mes: Mayo
+  dia: 12
   dianombre: Martes
   year: 2026
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: Abril
-  dia: 29
+- mes: Mayo
+  dia: 12
   dianombre: Martes
   year: 2026
   lugar: Aula Magna
   place_index: 2
 
 actividades:
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Inauguración de la Feria del Empleo 2026
   shortName: "Inauguración"
   abstract: Con la presencia del Director de la Facultad
@@ -38,8 +38,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: FORD
   shortName: "Conferencia Ford"
   hora: 10:00 – 12:00 
@@ -47,8 +47,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: HUAWEI
   shortName: "Conferencia Huawei"
   hora: 12:00 – 14:00 
@@ -56,8 +56,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Gerdau Corsa
   shortName: "Reclutamiento de Gerdau Corsa"
   hora: 12:00 – 14:00 
@@ -65,8 +65,8 @@ actividades:
   recinto: Aula Magna
   place_index: 2
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Capital One
   shortName: "Conferencia Capital One"
   hora: 14:00 – 16:00 
@@ -74,8 +74,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Knight
   shortName: "Reclutamiento Knight Piesold"
   hora: 14:00 – 16:00 
@@ -83,8 +83,8 @@ actividades:
   recinto: Aula Magna
   place_index: 2
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Audi
   shortName: "Conferencia Audi"
   hora: 16:00 – 18:00 
@@ -92,8 +92,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Karla Berman
   shortName: "Karla Berman"
   hora: 18:30 – 20:00 
@@ -101,8 +101,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 28
+- mes: Mayo
+  dia: 11
   nombre: Amazon
   shortName: "Conferencia Amazon"
   hora: 16:00 – 18:00 
@@ -110,8 +110,8 @@ actividades:
   recinto: Aula Magna
   place_index: 2
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: "ICA FLUOR"
   shortName: "Conferencia Ica Fluor"
   hora: 10:00 – 12:00 
@@ -119,8 +119,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: Grupo México
   shortName: "Conferencia Grupo México"
   hora: 12:00 – 14:00 
@@ -128,8 +128,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: Mota-Engil
   shortName: "Reclutamiento Mota-Engil"
   hora: 12:00 – 14:00 
@@ -138,8 +138,8 @@ actividades:
   place_index: 2
 
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: EY
   shortName: "Conferencia Ey"
   hora: 14:00 – 16:00 
@@ -147,8 +147,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: Mota-Engil
   shortName: "Reclutamiento Micron"
   hora: 14:00 – 16:00 
@@ -156,8 +156,8 @@ actividades:
   recinto: Aula Magna
   place_index: 2
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: ZTE
   shortName: "Conferencia ZTE"
   hora: 16:00 – 18:00 
@@ -165,8 +165,8 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: ABRIL
-  dia: 29
+- mes: Mayo
+  dia: 12
   nombre: Amazon
   shortName: "Conferencia Amazon"
   hora: 16:00 – 18:00 
