@@ -20,12 +20,12 @@ fechas:
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-- mes: Mayo
-  dia: 12
-  dianombre: Martes
-  year: 2026
-  lugar: Aula Magna
-  place_index: 2
+# - mes: Mayo
+#   dia: 12
+#   dianombre: Martes
+#   year: 2026
+#   lugar: Aula Magna
+#   place_index: 2
 
 
 
@@ -80,21 +80,6 @@ platicas:
   image_height: 50px
   image_flyer: ""
 
-- conferencista_foto: images/companies/gerdau.png
-  conferencista_linkedin: Gerdau Corsa
-  conferencista_nombre:  Gerdau Corsa
-  conferencia_nombre: Reclutamiento de Gerdau Corsa
-  conferencia_hora: 12:00 – 14:00
-  conferencia_lugar: Aula Magna
-  conferencia_abstract:  Reclutamiento de Gerdau Corsa
-  conferencia_empresa: Gerdau Corsa
-  conferencia_fecha: 11 Mayo 2026
-  mes: Mayo
-  dia: 11
-  place_index: 2
-  image_width: 80
-  image_height: 20px
-  image_flyer: ""
 
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
@@ -112,6 +97,7 @@ platicas:
   image_height: 40px
   image_flyer: ""
 
+
 - conferencista_foto: images/companies/knightpiesold.png
   conferencista_linkedin: Knight Piesold
   conferencista_nombre:  Knight Piesold
@@ -120,7 +106,7 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Knight Piesold
   conferencia_empresa: Knight Piesold
-  conferencia_fecha: 11 Mayo 2026
+  conferencia_fecha: 12 Mayo 2026
   mes: Mayo
   dia: 11
   place_index: 2
@@ -128,72 +114,39 @@ platicas:
   image_height: 40px
   image_flyer: ""
 
-- conferencista_foto: images/companies/audi.png
-  conferencista_linkedin: AUDI
-  conferencista_nombre:  AUDI
-  conferencia_nombre: Plática AUDI
-  conferencia_hora: 16:00 – 18:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: AUDI
-  conferencia_fecha: 11 Mayo 2026
-  mes: Mayo
-  dia: 11
-  place_index: 1
-  image_width: 100
-  image_height: 50px
-  image_flyer: ""
-
-- conferencista_foto: images/companies/berman.jpeg
-  conferencista_linkedin: Karla Berman
-  conferencista_nombre:  Karla Berman
-  conferencia_nombre: 'Los 5 ingredientes de los unicornios'
-  conferencia_hora: 16:30 – 18:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  'Sobre Innovación y entrepreneurship'
-  conferencia_empresa: Karla Berman
-  conferencia_fecha: 11 Mayo 2026
-  mes: Mayo
-  dia: 11
-  place_index: 1
-  image_width: 100
-  image_height: 0px
-  image_flyer: "images/companies/flyers/flyer_berman.jpeg"
-  conferencia_mId: berman
-
-- conferencista_foto: images/companies/amazon.svg
-  conferencista_linkedin: Amazon
-  conferencista_nombre:  Amazon
-  conferencia_nombre: Reclutamiento Amazon
-  conferencia_hora: 16:00 – 18:00
-  conferencia_lugar: Aula Magna
-  conferencia_abstract:  Reclutamiento Amazon
-  conferencia_empresa: Amazon
-  conferencia_fecha: 11 Mayo 2026
-  mes: Mayo
-  dia: 11
-  place_index: 2
-  image_width: 80
-  image_height: 40px
-  image_flyer: ""
+# - conferencista_foto: images/companies/audi.png
+#   conferencista_linkedin: AUDI
+#   conferencista_nombre:  AUDI
+#   conferencia_nombre: Plática AUDI
+#   conferencia_hora: 16:00 – 18:00
+#   conferencia_lugar: Auditorio "Javier Barros Sierra"
+#   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+#   conferencia_empresa: AUDI
+#   conferencia_fecha: 11 Mayo 2026
+#   mes: Mayo
+#   dia: 11
+#   place_index: 1
+#   image_width: 100
+#   image_height: 50px
+#   image_flyer: ""
 
 
-- conferencista_foto: images/companies/icafluor.jpg
-  conferencista_linkedin: ICA FLUOR
-  conferencista_nombre: "Ica Fluor"
-  conferencia_nombre: "Talento de la Facultad de Ingeniería"
+
+- conferencista_foto: images/companies/motaengine.png
+  conferencista_linkedin: Mota-Engil
+  conferencista_nombre:  Mota-Engil
+  conferencia_nombre: Reclutamiento Mota-Engil
   conferencia_hora: 10:00 – 12:00
-  conferencia_lugar: Auditorio "Javier Barros Sierra"
-  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
-  conferencia_empresa: ICA FLUOR
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Mota-Engil
+  conferencia_empresa: Mota-Engil
   conferencia_fecha: 12 Mayo 2026
   mes: Mayo
   dia: 12
   place_index: 1
-  image_width: 130
-  image_height: 40px
-  image_flyer: "images/companies/flyers/flyer_ica_fluor.jpg"
-  conferencia_mId: icafluor
+  image_width: 80
+  image_height: 80px
+  image_flyer: ""
 
 - conferencista_foto: images/companies/gmexico.svg
   conferencista_linkedin: ""
@@ -209,22 +162,6 @@ platicas:
   place_index: 1
   image_width: 200
   image_height: 30px
-  image_flyer: ""
-
-- conferencista_foto: images/companies/motaengine.png
-  conferencista_linkedin: Mota-Engil
-  conferencista_nombre:  Mota-Engil
-  conferencia_nombre: Reclutamiento Mota-Engil
-  conferencia_hora: 12:00 – 14:00
-  conferencia_lugar: Aula Magna
-  conferencia_abstract:  Reclutamiento Mota-Engil
-  conferencia_empresa: Mota-Engil
-  conferencia_fecha: 12 Mayo 2026
-  mes: Mayo
-  dia: 12
-  place_index: 2
-  image_width: 80
-  image_height: 80px
   image_flyer: ""
 
 - conferencista_foto: images/companies/ey_logo.svg
@@ -243,21 +180,6 @@ platicas:
   image_height: 60px
   image_flyer: ""
 
-- conferencista_foto: images/companies/micron.png
-  conferencista_linkedin: Micron
-  conferencista_nombre:  Micron
-  conferencia_nombre: Reclutamiento Micron
-  conferencia_hora: 14:00 – 16:00
-  conferencia_lugar: Aula Magna
-  conferencia_abstract:  Reclutamiento Micron
-  conferencia_empresa: Micron
-  conferencia_fecha: 12 Mayo 2026
-  mes: Mayo
-  dia: 12
-  place_index: 2
-  image_width: 80
-  image_height: 20px
-  image_flyer: ""
 
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
@@ -276,21 +198,6 @@ platicas:
   image_flyer: ""
 
 
-- conferencista_foto: images/companies/amazon.svg
-  conferencista_linkedin: Amazon
-  conferencista_nombre:  Amazon
-  conferencia_nombre: Reclutamiento Amazon
-  conferencia_hora: 16:00 – 18:00
-  conferencia_lugar: Aula Magna
-  conferencia_abstract:  Reclutamiento Amazon
-  conferencia_empresa: Amazon
-  conferencia_fecha: 12 Mayo 2026
-  mes: Mayo
-  dia: 12
-  place_index: 2
-  image_width: 80
-  image_height: 40px
-  image_flyer: ""
 
 
 
