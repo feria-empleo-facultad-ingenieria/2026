@@ -1,0 +1,34 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "companies"
+    label: "Compañías"
+    files:
+      - name: "companies"
+        label: "Catálogo de Compañías"
+        file: "_data/companies.yml"
+        fields:
+          - label: "Compañías"
+            name: "companies"
+            widget: "list"
+            fields:
+              - { label: "Sitio",    name: "siteurl",    widget: "string" }
+              - { label: "Logo",     name: "logourl",    widget: "string" }
+              - { label: "Nombre",   name: "name",       widget: "string" }
+              - { label: "Banner",   name: "logoBanner", widget: "string" }
+              - { label: "Card",     name: "logoCard",   widget: "string" }
+              - { label: "Carreras", name: "carreras",   widget: "string" }
+              - { label: "Teaser",   name: "teaser",     widget: "string" }
+              - { label: "Abstract", name: "abstract",   widget: "string" }
+              - { label: "Stand",    name: "stand",      widget: "string" }
+              - { label: "Height",   name: "height1",    widget: "string" }
+              - { label: "Height1",  name: "height",     widget: "string" }
+              - { label: "Columns",  name: "column",     widget: "number" }
+              - { label: "StandId",  name: "standId",    widget: "string" }

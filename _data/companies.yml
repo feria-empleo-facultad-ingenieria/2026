@@ -957,6 +957,21 @@ companies:
   heightStyle: height:60px
   column: 2
  
+- siteurl: https://www.schaeffler.mx/es/empleo/
+  logourl: images/companies/schaeffler.jpeg
+  logoCard: 20px
+  logoBanner: 20px
+  name: Schaeffler
+  carreras: TODAS LAS CARRERAS
+  teaser: "Ofrecemos oportunidades laborales desde personal recién egresado hasta a profesionales con experiencia en una amplia gama de funciones en múltiples ubicaciones en todo el mundo."
+  abstract: "Nuestros empleados son nuestro activo más valioso. Juntos hacemos que el movimiento sea más seguro, limpio e inteligente. Consideramos que los retos del futuro son oportunidades, por lo que, como motion technology company, queremos ser pioneros en todos los aspectos de nuestro trabajo. Para ello, apostamos por un entorno laboral innovador, abierto y de confianza."
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 2
+
 - siteurl: https://www.se.com/mx/es/about-us/careers/overview.jsp
   logourl: images/companies/schneider.jpeg
   logoCard: 40px
