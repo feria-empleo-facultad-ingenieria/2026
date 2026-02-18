@@ -20,12 +20,12 @@ fechas:
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-# - mes: Mayo
-#   dia: 12
-#   dianombre: Martes
-#   year: 2026
-#   lugar: Aula Magna
-#   place_index: 2
+- mes: Mayo
+  dia: 12
+  dianombre: Martes
+  year: 2026
+  lugar: Aula Magna
+  place_index: 2
 
 
 
@@ -93,6 +93,22 @@ platicas:
   mes: Mayo
   dia: 11
   place_index: 1
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/techint.jpeg
+  conferencista_linkedin: Techint Ingeniería y Construcción
+  conferencista_nombre: Techint Ingeniería y Construcción
+  conferencia_nombre: Techint Ingeniería y Construcción
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Techint
+  conferencia_empresa: Techint
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
+  place_index: 2
   image_width: 80
   image_height: 40px
   image_flyer: ""
@@ -197,7 +213,21 @@ platicas:
   image_height: 20px
   image_flyer: ""
 
-
+- conferencista_foto: images/companies/micron.png
+  conferencista_linkedin: Micron
+  conferencista_nombre: Micron
+  conferencia_nombre: Micron
+  conferencia_hora: 14:00 – 16:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Reclutamiento Micron
+  conferencia_empresa: Micron
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
 
 
 

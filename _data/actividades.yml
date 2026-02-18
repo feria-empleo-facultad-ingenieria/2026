@@ -20,12 +20,12 @@ fechas:
   lugar: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-# - mes: Mayo
-#   dia: 12
-#   dianombre: Martes
-#   year: 2026
-#   lugar: Aula Magna
-#   place_index: 2
+- mes: Mayo
+  dia: 12
+  dianombre: Martes
+  year: 2026
+  lugar: Aula Magna
+  place_index: 2
 
 actividades:
 - mes: Mayo
@@ -65,11 +65,10 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
-
 # - mes: Mayo
 #   dia: 11
-#   nombre: Audi
-#   shortName: "Conferencia Audi"
+#   nombre: FI
+#   shortName: "FI - UNAM"
 #   hora: 16:00 – 18:00 
 #   lugar: Auditorio
 #   recinto: Auditorio "Javier Barros Sierra"
@@ -114,8 +113,27 @@ actividades:
 
 - mes: Mayo
   dia: 11
+  nombre: "Techint Ingeniería y Construcción"
+  shortName: "Techint"
+  hora: 12:00 – 14:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
+
+- mes: Mayo
+  dia: 11
   nombre: Knight Piesold
   shortName: "Reclutamiento de Knight Piesold"
+  hora: 14:00 – 16:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
+
+
+- mes: Mayo
+  dia: 12
+  nombre: "Micron"
+  shortName: "Micron"
   hora: 14:00 – 16:00 
   lugar: Aula Magna
   recinto: Aula Magna

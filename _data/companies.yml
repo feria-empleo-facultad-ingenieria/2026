@@ -52,21 +52,21 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-# - siteurl: https://www.amazon.jobs/es
-#   logourl: images/companies/amazon.svg
-#   name: Amazon
-#   logoCard: 30px
-#   logoBanner: 30px
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "Lo que une a los empleados de Amazon en todos los equipos y geografías es que todos nos esforzamos por satisfacer a nuestros clientes y hacerles la vida más fácil."
-#   abstract: "Lo que une a los empleados de Amazon en todos los equipos y geografías es que todos nos esforzamos por satisfacer a nuestros clientes y hacerles la vida más fácil. El alcance y la escala de nuestra misión nos impulsan a buscar perspectivas diversas, a ser ingeniosos y a sortear la ambigüedad. Inventar y entregar cosas que nunca creímos posibles no es fácil, pero aceptamos este desafío todos los días."
-#   stand: S/A
-#   height1: 30px
-#   height: 60px
-#   heightStand: 50px
-#   heightStyle: height:50px
-#   column: 1
-#   standId: ""
+- siteurl: https://www.amazon.jobs/es
+  logourl: images/companies/amazon.svg
+  name: Amazon
+  logoCard: 30px
+  logoBanner: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Lo que une a los empleados de Amazon en todos los equipos y geografías es que todos nos esforzamos por satisfacer a nuestros clientes y hacerles la vida más fácil."
+  abstract: "Lo que une a los empleados de Amazon en todos los equipos y geografías es que todos nos esforzamos por satisfacer a nuestros clientes y hacerles la vida más fácil. El alcance y la escala de nuestra misión nos impulsan a buscar perspectivas diversas, a ser ingeniosos y a sortear la ambigüedad. Inventar y entregar cosas que nunca creímos posibles no es fácil, pero aceptamos este desafío todos los días."
+  stand: S/A
+  height1: 30px
+  height: 60px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 1
+  standId: ""
 
 
 # - siteurl: https://www.audi.com.mx/mx/web/es/audi-en-mexico/carreras.html
@@ -427,20 +427,20 @@ companies:
 # #   heightStyle: height:50px
 # #   column: 1
 
-# - siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
-#   logourl: images/companies/ford.png
-#   name: Ford
-#   logoBanner: 30px
-#   logoCard: 30px
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "You can be a part of a company that has a bias for action and has invested in real change when employees said they wanted to work differently. Experience a redesigned and remade work experience that puts health, safety, and wellness at the forefront"
-#   abstract: Ford Motor Company creates transportation solutions built to improve people's lives. Our innovative products, accessories, experiences, and services are designed and produced across six continents, and we are always looking to attract top talent. Join us.
-#   stand: S/A
-#   height1: 30px
-#   height: 50px
-#   heightStand: 40px
-#   heightStyle: height:50px
-#   column: 1
+- siteurl: https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1?utm_source=Ford+Champs&utm_medium=Linkedin&utm_id=Ford+Champs
+  logourl: images/companies/ford.png
+  name: Ford
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "You can be a part of a company that has a bias for action and has invested in real change when employees said they wanted to work differently. Experience a redesigned and remade work experience that puts health, safety, and wellness at the forefront"
+  abstract: Ford Motor Company creates transportation solutions built to improve people's lives. Our innovative products, accessories, experiences, and services are designed and produced across six continents, and we are always looking to attract top talent. Join us.
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 1
 
 # - siteurl: https://www.gerdaucorsa.com.mx/
 #   logourl: images/companies/gerdau.png
@@ -742,20 +742,20 @@ companies:
   heightStyle: height:50px
   column: 2
 
-# - siteurl: https://www.micron.com/about/careers
-#   logourl: images/companies/micron.png
-#   logoCard: 30px
-#   logoBanner: 30px
-#   name: Micron
-#   carreras: TODAS LAS CARRERAS
-#   teaser: "Interested in learning more about how we work? We are making a difference through our work, in our teams and within our communities."
-#   abstract: "Whether you're a technician, an engineer or a global project leader, you'll be part of a team that develops and delivers critical memory and storage solutions. Discover a career path with Micron today."
-#   stand: S/A
-#   height1: 60px
-#   height: 100px
-#   heightStand: 70px
-#   heightStyle: height:120px
-#   column: 2
+- siteurl: https://www.micron.com/about/careers
+  logourl: images/companies/micron.png
+  logoCard: 30px
+  logoBanner: 30px
+  name: Micron
+  carreras: TODAS LAS CARRERAS
+  teaser: "Interested in learning more about how we work? We are making a difference through our work, in our teams and within our communities."
+  abstract: "Whether you're a technician, an engineer or a global project leader, you'll be part of a team that develops and delivers critical memory and storage solutions. Discover a career path with Micron today."
+  stand: S/A
+  height1: 60px
+  height: 100px
+  heightStand: 70px
+  heightStyle: height:120px
+  column: 2
 
 - siteurl: https://www.mota-engil.com/es/
   logourl: images/companies/logomotaengil.png
@@ -858,18 +858,18 @@ companies:
 # #   column: 2
  
  
-# - siteurl: https://www.pepsicojobs.com/main/?lang=es-MX
-#   logourl: images/companies/pepsico.png
-#   name: Pepsico
-#   carreras: TODAS LAS CARRERAS
-#   abstract: "¿Buscas pasantías y oportunidades de empezar tu carrera? PepsiCo es divertido, dinámico y un lugar donde puedes desarrollar tus habilidades y avanzar sin cambiar quién eres. Valoramos tus historias únicas, nuevos conjuntos de habilidades y perspectivas frescas."
-#   teaser: "Desde ingeniería hasta derecho, PepsiCo invita a recién graduados y estudiantes a ayudar a definir el futuro de nuestras marcas icónicas y sus carreras."
-#   stand: S/A
-#   height1: 25px
-#   height: 40px
-#   heightStand: 30px
-#   heightStyle: height:50px
-#   column: 2
+- siteurl: https://www.pepsicojobs.com/main/?lang=es-MX
+  logourl: images/companies/pepsico.png
+  name: Pepsico
+  carreras: TODAS LAS CARRERAS
+  abstract: "¿Buscas pasantías y oportunidades de empezar tu carrera? PepsiCo es divertido, dinámico y un lugar donde puedes desarrollar tus habilidades y avanzar sin cambiar quién eres. Valoramos tus historias únicas, nuevos conjuntos de habilidades y perspectivas frescas."
+  teaser: "Desde ingeniería hasta derecho, PepsiCo invita a recién graduados y estudiantes a ayudar a definir el futuro de nuestras marcas icónicas y sus carreras."
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 30px
+  heightStyle: height:50px
+  column: 2
  
 
 - siteurl: http://www.pg.com/es_LATAM/MX/
