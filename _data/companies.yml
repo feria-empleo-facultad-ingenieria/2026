@@ -530,9 +530,11 @@ companies:
   column: 2
 
 - siteurl: https://www.gruposalinas.com/
-  logourl: https://www.gruposalinas.com/Content/iconos/LogoGS-main.svg
+  logourl: images/companies/gs-color.png
   name: Grupo Salinas
   carreras: TODAS LAS CARRERAS
+  logoCard: 50px
+  logoBanner: 50px
   teaser: El mundo necesita agentes de cambio cultural personas con mentalidad positiva e innovadora, dispuestas a trabajar en equipo para la solución de problemas.
   abstract: La diversidad es nuestra carta fuerte. Somos un grupo formado por un conjunto de empresas que se caracterizan por el dinamismo, la evolución constante y la innovación.
   stand: S/A
@@ -859,15 +861,17 @@ companies:
  
  
 - siteurl: https://www.pepsicojobs.com/main/?lang=es-MX
-  logourl: images/companies/pepsico.png
+  logourl: images/companies/pepsico.jpeg
+  logoCard: 50px
+  logoBanner: 50px
   name: Pepsico
   carreras: TODAS LAS CARRERAS
   abstract: "¿Buscas pasantías y oportunidades de empezar tu carrera? PepsiCo es divertido, dinámico y un lugar donde puedes desarrollar tus habilidades y avanzar sin cambiar quién eres. Valoramos tus historias únicas, nuevos conjuntos de habilidades y perspectivas frescas."
   teaser: "Desde ingeniería hasta derecho, PepsiCo invita a recién graduados y estudiantes a ayudar a definir el futuro de nuestras marcas icónicas y sus carreras."
   stand: S/A
-  height1: 25px
-  height: 40px
-  heightStand: 30px
+  height1: 60px
+  height: 60px
+  heightStand: 60px
   heightStyle: height:50px
   column: 2
  
