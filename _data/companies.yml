@@ -932,8 +932,8 @@ companies:
   heightStyle: height:40px
   column: 2
 
-- siteurl: www.semaesa.com.mx
-  logourl: images/companies/semae.jpeg
+- siteurl: https://www.semae.com.mx/
+  logourl: images/companies/semaesa.jpeg
   logoCard: 40px
   logoBanner: 40px
   name: Semae
