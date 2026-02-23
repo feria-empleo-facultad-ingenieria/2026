@@ -400,26 +400,27 @@ companies:
   heightStyle: height:70px
   column: 1
 
-- siteurl: https://www.faroprotec.com/
-  logourl: images/companies/logofaro.svg
-  name: Faroprotec
-  logoBanner: 30px
-  logoCard: 30px
-  carreras: TODAS LAS CARRERAS
-  teaser: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
-  abstract: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
-  stand: S/A
-  height1: 40px
-  height: 60px
-  heightStand: 50px
-  heightStyle: height:50px
-  column: 1
+# - siteurl: https://www.faroprotec.com/
+#   logourl: images/companies/logofaro.svg
+#   name: Faroprotec
+#   logoBanner: 30px
+#   logoCard: 30px
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
+#   abstract: Si quieres una carrera significativa en un ambiente dinámico de gente brillante que realmente hacen una diferencia, tenemos un lugar para ti.
+#   stand: S/A
+#   height1: 40px
+#   height: 60px
+#   heightStand: 50px
+#   heightStyle: height:50px
+#   column: 1
+
 # # - siteurl: https://www.fieldcore.com/careers/
 # #   logourl: images/companies/fieldcore.png
 # #   name: FieldCore
 # #   carreras: TODAS LAS CARRERAS
 # #   teaser: Determined to Be the Best Place to Grow
-# #   abstract: People are the heart of our organization and we put them first in everything we do. From professional development to a wide range of training opportunities, we continually strive to create an empowering and healthy place to work. Combining our values of growth, work/life balance and World-Class Execution is what sets our workplace apart from the rest. Only FieldCore can offer this wide range of opportunities across the power generation industry, combined with excellent career paths in technical, functional and leadership areas.
+# #   abstract: ""
 # #   stand: S/A
 # #   height1: 40px
 # #   height: 60px
@@ -926,6 +927,21 @@ companies:
   abstract: "Ofrecemos varias formas para iniciar tu carrera después de graduarte. Como una compañía internacional con presencia en más de 60 países, entrenamos a una nueva generación de ejecutivos para abordar los retos del mañana. Desde trabajar en un Centro de Investigación y Desarrollo a programas especiales de graduados, las posibilidades no tienen fin."
   stand: S/A
   height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:40px
+  column: 2
+
+- siteurl: www.semaesa.com.mx
+  logourl: images/companies/semae.jpeg
+  logoCard: 40px
+  logoBanner: 40px
+  name: Semae
+  carreras: TODAS LAS CARRERAS
+  teaser: "Semae, empresa mexicana fundada en 1989; desde entonces a la fecha, hemos implementado sistemas integrales de embotellado de la más alta calidad a nivel nacional e internacional."
+  abstract: "Creamos equipos eficientes e innovadores integrando las más nuevas tecnologías. Hoy en día somos una empresa consolidada gracias a la experiencia adquirida a lo largo de estos 35 años de trabajo constante."
+  stand: S/A
+  height1: 60px
   height: 60px
   heightStand: 40px
   heightStyle: height:40px

@@ -9,5 +9,5 @@ git push origin gh-pages
 git init
 git status
 git add .
-git commit -m "Change 17-Feb-2026 v1.2.0"
+git commit -m "Change 23-Feb-2026 v1.2.1"
 git push origin gh-pages
