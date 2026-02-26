@@ -80,7 +80,6 @@ platicas:
   image_height: 50px
   image_flyer: ""
 
-
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
   conferencista_nombre:  Capital One
@@ -89,6 +88,22 @@ platicas:
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
   conferencia_empresa: Capital One
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
+  place_index: 1
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/imp.png
+  conferencista_linkedin: Instituto Mexicano del Petróleo
+  conferencista_nombre:  Instituto Mexicano del Petróleo
+  conferencia_nombre: Plática Instituto Mexicano del Petróleo
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
+  conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
+  conferencia_empresa: Instituto Mexicano del Petróleo
   conferencia_fecha: 11 Mayo 2026
   mes: Mayo
   dia: 11

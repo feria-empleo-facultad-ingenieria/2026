@@ -65,6 +65,15 @@ actividades:
   recinto: Auditorio "Javier Barros Sierra"
   place_index: 1
 
+- mes: Mayo
+  dia: 11
+  nombre: "Instituto Mexicano del Petróleo"
+  shortName: "Conferencia IMP"
+  hora: 16:00 – 18:00 
+  lugar: Auditorio
+  recinto: Auditorio "Javier Barros Sierra"
+  place_index: 1
+
 # - mes: Mayo
 #   dia: 11
 #   nombre: FI
