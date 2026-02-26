@@ -788,6 +788,21 @@ companies:
   heightStyle: height:50px
   column: 2
 
+- siteurl: https://careers.emeal.nttdata.com/s/evento/a06KA000002WEfyYAG/ix-feria-del-empelo-2026-facultad-de-ingenier%C3%ADa?language=es
+  logourl: images/companies/nttdata.jpeg
+  logoCard: 30px
+  logoBanner: 30px
+  name: NttData
+  carreras: TODAS LAS CARRERAS
+  teaser: "NTT DATA estará en la IX Feria del Empelo 2026 Conexión Laboral de la Facultad de Ingeniería de la UNAM. Si estás construyendo tu camino en tecnología y quieres que tu talento tenga impacto real, esta es tu oportunidad."
+  abstract: "Somos una compañía global donde la tecnología transforma industrias completas: banca, telecomunicaciones, retail, sector público y más. Aquí no solo desarrollarás código —desarrollarás soluciones que impactan millones de personas."
+  stand: S/A
+  height1: 60px
+  height: 100px
+  heightStand: 70px
+  heightStyle: height:120px
+  column: 2
+
 # - siteurl: https://www.nissan.com.mx/corporate/trabaja-en-nissan.html
 #   logourl: images/companies/nissan.png
 #   name: Nissan
