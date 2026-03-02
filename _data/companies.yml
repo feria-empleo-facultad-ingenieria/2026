@@ -649,6 +649,20 @@ companies:
 #   heightStyle: height:50px
 #   column: 2
 
+- siteurl: https://www.gob.mx/imp
+  logourl: images/companies/imp.jpeg
+  name: IMP
+  logoCard: 40px
+  logoBanner: 40px
+  carreras: TODAS LAS CARRERAS
+  teaser: "Nos distinguimos por la experiencia y el conocimiento adquiridos durante más de 50 años de presencia en el mercado petrolero, que nos permite responder de forma ágil y efectiva a las nuevas exigencias del entorno energético"  
+  abstract: "Nos distinguimos por la experiencia y el conocimiento adquiridos durante más de 50 años de presencia en el mercado petrolero, que nos permite responder de forma ágil y efectiva a las nuevas exigencias del entorno energético, con soluciones robustas e innovadoras que garantizan la formación de excelencia y profesionalización del personal de la industria petrolera y el sector energético." 
+  stand: S/A
+  height1: 40px
+  height: 60px
+  heightStand: 40px
+  heightStyle: height:50px
+  column: 2
 
 - siteurl: https://home.kpmg/mx/es/home/carrera.html
   logourl: images/companies/KPMG.png
