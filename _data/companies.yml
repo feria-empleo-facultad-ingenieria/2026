@@ -385,7 +385,7 @@ companies:
 #   heightStyle: height:70px
 #   column: 1
 
-- siteurl: www.eutelsat.com
+- siteurl: https://www.eutelsat.com
   logourl: images/companies/eutelsat.svg
   name: Eutelsat
   logoBanner: 30px
