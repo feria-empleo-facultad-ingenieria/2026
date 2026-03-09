@@ -610,20 +610,20 @@ companies:
 #   heightStyle: height:80px
 #   column: 2
 
-# - siteurl: https://www.keyence.com.mx/ss/careers/
-#   logourl: images/companies/keyence.jpg
-#   logoBanner: 30px
-#   logoCard: 30px
-#   name: Keyence
-#   carreras: TODAS LAS CARRERAS
-#   teaser: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección.
-#   abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
-#   stand: S/A
-#   height1: 25px
-#   height: 50px
-#   heightStand: 30px
-#   heightStyle: height:40px
-#   column: 2
+- siteurl: https://www.keyence.com.mx/
+  logourl: images/companies/keyence.jpg
+  logoBanner: 30px
+  logoCard: 30px
+  name: Keyence
+  carreras: TODAS LAS CARRERAS
+  teaser: "KEYENCE is committed to adding value to your career. We believe that employees' continuous development is one of essential things that has strengthened our organization to become a global leader."
+  abstract: "KEYENCE is committed to adding value to your career. We believe that employees' continuous development is one of essential things that has strengthened our organization to become a global leader. Therefore, we provide all necessary trainings for you to successfully become a professional for your career, as your development is our priority."
+  stand: S/A
+  height1: 25px
+  height: 50px
+  heightStand: 30px
+  heightStyle: height:40px
+  column: 2
 
 # # - siteurl: https://careers.kionetworks.com/?_ga=2.180170916.1234104365.1675361423-246092732.1675361423
 # #   logourl: images/companies/kio2.png
