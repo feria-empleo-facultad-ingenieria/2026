@@ -774,6 +774,21 @@ companies:
   heightStyle: height:120px
   column: 2
 
+- siteurl: https://www.modec.com/
+  logourl: images/companies/modec.jpeg
+  logoCard: 50px
+  logoBanner: 50px
+  name: Modec
+  carreras: TODAS LAS CARRERAS
+  teaser: "MODEC is the global leader in building and operating floating solutions for the offshore oil and gas industry. We have more than 50 years of experience working on 5 continents and offer the best technology and service to our clients."
+  abstract: "MODEC is the global leader in building and operating floating solutions for the offshore oil and gas industry. We have more than 50 years of experience working on 5 continents and offer the best technology and service to our clients."
+  stand: S/A
+  height1: 60px
+  height: 100px
+  heightStand: 70px
+  heightStyle: height:120px
+  column: 2
+
 - siteurl: https://www.mota-engil.com/es/
   logourl: images/companies/logomotaengil.png
   logoCard: 30px
