@@ -354,6 +354,21 @@ companies:
 #   heightStyle: height:60px
 #   column: 1
 
+- siteurl: "https://www.linkedin.com/company/eglobaloficial/"
+  logourl: images/companies/eglobal.png
+  name: Eglobal
+  logoBanner: 30px
+  logoCard: 30px
+  carreras: TODAS LAS CARRERAS
+  teaser: "eGlobal is one of North America’s largest providers of full ATM placement and processing services to merchants and partners for the hospitality, convenience and retail industries."
+  abstract: "eGlobal is one of North America’s largest providers of full ATM placement and processing services to merchants and partners for the hospitality, convenience and retail industries. Three out of the four largest hotel chains and many of the largest convenience store chains in the United States trust eGlobal for their ATM programs."
+  stand: S/A
+  height1: 60px
+  height: 70px
+  heightStand: 70px
+  heightStyle: height:90px
+  column: 1
+
 
 - siteurl: https://www.ey.com/es_mx
   logourl: images/companies/ey_logo.svg
