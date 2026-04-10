@@ -1051,6 +1051,8 @@ companies:
   heightStyle: height:50px
   column: 2
 
+
+
 - siteurl: https://www.se.com/mx/es/about-us/careers/overview.jsp
   logourl: images/companies/schneider.jpeg
   logoCard: 40px
@@ -1059,6 +1061,22 @@ companies:
   carreras: TODAS LAS CARRERAS
   teaser: "Trabajar en Schneider Electric significa trabajar para lograr un mundo mejor y más limpio. Eres parte de un equipo global creado a partir de la inclusión, maestría, propósito, acción, curiosidad y trabajo en equipo, lo que convierte las ambiciones de sostenibilidad en acciones."
   abstract: "En Schneider Electric, todo lo que hacemos promueve el progreso y la sostenibilidad para todos: nuestros colegas, clientes, socios, y las comunidades y sociedades donde vivimos y trabajamos. Desde los productos, software y servicios que impulsan la transformación digital de la gestión y automatización de la energía hasta la ciudadanía corporativa y las actividades de voluntariado, impactamos al ayudar a las personas y organizaciones a que se vuelvan más resilientes y eficientes, y que utilicen más la electricidad y la digitalización"
+  stand: S/A
+  height1: 30px
+  height: 50px
+  heightStand: 50px
+  heightStyle: height:50px
+  column: 2
+
+
+- siteurl: https://careers.stellantis.com/es/us/
+  logourl: images/companies/stellantis.svg
+  logoCard: 40px
+  logoBanner: 40px
+  name: Stellantis
+  carreras: TODAS LAS CARRERAS
+  teaser: "Con cada nuevo miembro del equipo, nuestras estrellas se alinean y Stellantis se hace más fuerte. Únase a nuestro equipo y aspire a la grandeza."
+  abstract: "Todas las personas que trabajan aquí tienen la oportunidad de hacernos más fuertes como una de las mejores empresas automotrices internacionales de su clase. ¡Averigüe cómo puede unirse!"
   stand: S/A
   height1: 30px
   height: 50px
