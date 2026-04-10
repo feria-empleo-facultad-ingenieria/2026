@@ -385,20 +385,20 @@ companies:
   column: 1
 
 
-- siteurl: https://www.emerson.com/es-mx/careers
-  logourl: images/companies/emerson.png
-  name: Emerson
-  logoBanner: 50px
-  logoCard: 50px
-  carreras: TODAS LAS CARRERAS
-  teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
-  abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
-  stand: S/A
-  height1: 50px
-  height: 80px
-  heightStand: 50px
-  heightStyle: height:70px
-  column: 1
+# - siteurl: https://www.emerson.com/es-mx/careers
+#   logourl: images/companies/emerson.png
+#   name: Emerson
+#   logoBanner: 50px
+#   logoCard: 50px
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta.
+#   abstract: Imagínese rodeado de un equipo de personas innovadoras inteligentes, motivadas y apasionadas, todas trabajando para alcanzar la misma meta, crear soluciones revolucionarias que transformen a nuestro mundo en un lugar mejor que el que conocemos. 
+#   stand: S/A
+#   height1: 50px
+#   height: 80px
+#   heightStand: 50px
+#   heightStyle: height:70px
+#   column: 1
 
 - siteurl: https://www.eutelsat.com
   logourl: images/companies/eutelsat.svg
