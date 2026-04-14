@@ -128,7 +128,6 @@ platicas:
   image_height: 40px
   image_flyer: ""
 
-
 - conferencista_foto: images/companies/knightpiesold.png
   conferencista_linkedin: Knight Piesold
   conferencista_nombre:  Knight Piesold
@@ -137,7 +136,23 @@ platicas:
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Knight Piesold
   conferencia_empresa: Knight Piesold
-  conferencia_fecha: 12 Mayo 2026
+  conferencia_fecha: 11 Mayo 2026
+  mes: Mayo
+  dia: 11
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
+
+- conferencista_foto: images/companies/escudo.gif
+  conferencista_linkedin: FI - UNAM
+  conferencista_nombre:  FI - UNAM
+  conferencia_nombre: Plática FI - UNAM
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Plática FI - UNAM
+  conferencia_empresa: FI - UNAM
+  conferencia_fecha: 11 Mayo 2026
   mes: Mayo
   dia: 11
   place_index: 2
@@ -168,7 +183,7 @@ platicas:
   conferencista_nombre:  Mota-Engil
   conferencia_nombre: Reclutamiento Mota-Engil
   conferencia_hora: 10:00 – 12:00
-  conferencia_lugar: Aula Magna
+  conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Reclutamiento Mota-Engil
   conferencia_empresa: Mota-Engil
   conferencia_fecha: 12 Mayo 2026
@@ -228,6 +243,23 @@ platicas:
   image_height: 20px
   image_flyer: ""
 
+- conferencista_foto: images/companies/LiverpoolColor.png
+  conferencista_linkedin: Puerto de Liverpool
+  conferencista_nombre:  Puerto de Liverpool
+  conferencia_nombre: Plática Puerto de Liverpool
+  conferencia_hora: 12:00 – 14:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Puerto de Liverpool
+  conferencia_empresa: Puerto de Liverpool
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
+
+
 - conferencista_foto: images/companies/micron.png
   conferencista_linkedin: Micron
   conferencista_nombre: Micron
@@ -244,5 +276,20 @@ platicas:
   image_height: 40px
   image_flyer: ""
 
+- conferencista_foto: images/companies/escudo.gif
+  conferencista_linkedin: FI - UNAM
+  conferencista_nombre:  FI - UNAM
+  conferencia_nombre: Plática FI - UNAM
+  conferencia_hora: 16:00 – 18:00
+  conferencia_lugar: Aula Magna
+  conferencia_abstract:  Plática FI - UNAM
+  conferencia_empresa: FI - UNAM
+  conferencia_fecha: 12 Mayo 2026
+  mes: Mayo
+  dia: 12
+  place_index: 2
+  image_width: 80
+  image_height: 40px
+  image_flyer: ""
 
 

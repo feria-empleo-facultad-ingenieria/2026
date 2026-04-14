@@ -138,11 +138,37 @@ actividades:
   recinto: Aula Magna
   place_index: 2
 
+- mes: Mayo
+  dia: 11
+  nombre: "FI - UNAM"
+  shortName: "FI - UNAM"
+  hora: 16:00 – 18:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
+
+- mes: Mayo
+  dia: 12
+  nombre: "Puerto de Liverpool"
+  shortName: "Puerto de Liverpool"
+  hora: 12:00 – 14:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
 
 - mes: Mayo
   dia: 12
   nombre: "Micron"
   shortName: "Micron"
+  hora: 14:00 – 16:00 
+  lugar: Aula Magna
+  recinto: Aula Magna
+  place_index: 2
+
+- mes: Mayo
+  dia: 12
+  nombre: "FI - UNAM"
+  shortName: "FI - UNAM"
   hora: 14:00 – 16:00 
   lugar: Aula Magna
   recinto: Aula Magna
