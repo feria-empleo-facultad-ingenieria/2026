@@ -157,7 +157,7 @@ platicas:
   dia: 11
   place_index: 2
   image_width: 80
-  image_height: 40px
+  image_height: 80px
   image_flyer: ""
 
 # - conferencista_foto: images/companies/audi.png
