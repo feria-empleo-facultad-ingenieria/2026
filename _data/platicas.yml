@@ -144,14 +144,14 @@ platicas:
   image_height: 40px
   image_flyer: ""
 
-- conferencista_foto: images/companies/escudo.gif
-  conferencista_linkedin: FI - UNAM
-  conferencista_nombre:  FI - UNAM
-  conferencia_nombre: Plática FI - UNAM
+- conferencista_foto: images/companies/gruposalinas.svg
+  conferencista_linkedin: Grupo Salinas
+  conferencista_nombre:  Grupo Salinas
+  conferencia_nombre: Plática Grupo Salinas
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Aula Magna
-  conferencia_abstract:  Plática FI - UNAM
-  conferencia_empresa: FI - UNAM
+  conferencia_abstract:  Plática Grupo Salinas
+  conferencia_empresa: Grupo Salinas
   conferencia_fecha: 11 Mayo 2026
   mes: Mayo
   dia: 11
@@ -210,7 +210,7 @@ platicas:
   image_height: 30px
   image_flyer: ""
 
-- conferencista_foto: images/companies/ey_logo.svg
+- conferencista_foto: images/companies/ey_logo.png
   conferencista_linkedin: ey
   conferencista_nombre: EY
   conferencia_nombre: "Talento de la Facultad de Ingeniería"
