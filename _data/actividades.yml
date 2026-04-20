@@ -41,7 +41,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: FORD
-  shortName: "Conferencia Ford"
+  shortName: "Sesión de atracción de talento Ford"
   hora: 10:00 – 12:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -50,7 +50,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: HUAWEI
-  shortName: "Conferencia Huawei"
+  shortName: "Sesión de atracción de talento Huawei"
   hora: 12:00 – 14:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -59,7 +59,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: Capital One
-  shortName: "Conferencia Capital One"
+  shortName: "Sesión de atracción de talento Capital One"
   hora: 14:00 – 16:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -68,7 +68,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: "Instituto Mexicano del Petróleo"
-  shortName: "Conferencia IMP"
+  shortName: "Sesión de atracción de talento IMP"
   hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -87,7 +87,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: Mota-Engil
-  shortName: "Reclutamiento Mota-Engil"
+  shortName: "Sesión de atracción de talento Mota-Engil"
   hora: 10:00 – 12:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -96,7 +96,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: Grupo México
-  shortName: "Grupo México"
+  shortName: "Sesión de atracción de talento Grupo México"
   hora: 12:00 – 14:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -105,7 +105,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: EY
-  shortName: "Conferencia Ey"
+  shortName: "Sesión de atracción de talento Ey"
   hora: 14:00 – 16:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -114,7 +114,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: ZTE
-  shortName: "Conferencia ZTE"
+  shortName: "Sesión de atracción de talento ZTE"
   hora: 16:00 – 18:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -123,7 +123,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: "Techint Ingeniería y Construcción"
-  shortName: "Techint"
+  shortName: "Sesión de atracción de talento Techint"
   hora: 12:00 – 14:00 
   lugar: Aula Magna
   recinto: Aula Magna
@@ -132,7 +132,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: Knight Piesold
-  shortName: "Reclutamiento de Knight Piesold"
+  shortName: "Sesión de atracción de talento Knight Piesold"
   hora: 14:00 – 16:00 
   lugar: Aula Magna
   recinto: Aula Magna
@@ -141,7 +141,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: "Grupo Salinas"
-  shortName: "Grupo Salinas"
+  shortName: "Sesión de atracción de talento Grupo Salinas"
   hora: 16:00 – 18:00 
   lugar: Aula Magna
   recinto: Aula Magna
@@ -150,7 +150,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: "Puerto de Liverpool"
-  shortName: "Puerto de Liverpool"
+  shortName: "Sesión de atracción de talento Puerto de Liverpool"
   hora: 12:00 – 14:00 
   lugar: Aula Magna
   recinto: Aula Magna
@@ -159,7 +159,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: "Micron"
-  shortName: "Micron"
+  shortName: "Sesión de atracción de talento Micron"
   hora: 14:00 – 16:00 
   lugar: Aula Magna
   recinto: Aula Magna
