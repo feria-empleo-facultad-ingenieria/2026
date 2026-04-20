@@ -51,7 +51,7 @@ platicas:
 - conferencista_foto: images/companies/ford.png
   conferencista_linkedin: ""
   conferencista_nombre: FORD
-  conferencia_nombre: "Atracción de talento Ford"
+  conferencia_nombre: "Sesión de atracción de talento Ford."
   conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "¡Forma parte de nuestra nueva generación!"
@@ -67,7 +67,7 @@ platicas:
 - conferencista_foto: images/companies/huawei_final.png
   conferencista_linkedin: HUAWEI
   conferencista_nombre:  HUAWEI
-  conferencia_nombre: Plática HUAWEI
+  conferencia_nombre: "Sesión de atracción de talento HUAWEI."
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
@@ -82,8 +82,8 @@ platicas:
 
 - conferencista_foto: images/companies/CapitalOne.png
   conferencista_linkedin: Capital One
-  conferencista_nombre:  Capital One
-  conferencia_nombre: Plática Capital One
+  conferencista_nombre:  "Capital One"
+  conferencia_nombre: "Sesión de atracción de talento  Capital One."
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
@@ -99,7 +99,7 @@ platicas:
 - conferencista_foto: images/companies/imp.png
   conferencista_linkedin: Instituto Mexicano del Petróleo
   conferencista_nombre:  Instituto Mexicano del Petróleo
-  conferencia_nombre: Plática Instituto Mexicano del Petróleo
+  conferencia_nombre: "Sesión de atracción de talento Instituto Mexicano del Petróleo."
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección.
@@ -115,7 +115,7 @@ platicas:
 - conferencista_foto: images/companies/techint.jpeg
   conferencista_linkedin: Techint Ingeniería y Construcción
   conferencista_nombre: Techint Ingeniería y Construcción
-  conferencia_nombre: Techint Ingeniería y Construcción
+  conferencia_nombre: "Sesión de atracción de talento Techint."
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Techint
@@ -131,7 +131,7 @@ platicas:
 - conferencista_foto: images/companies/knightpiesold.png
   conferencista_linkedin: Knight Piesold
   conferencista_nombre:  Knight Piesold
-  conferencia_nombre: Reclutamiento Knight Piesold
+  conferencia_nombre: "Sesión de atracción de talento Knight Piesold."
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Knight Piesold
@@ -147,7 +147,7 @@ platicas:
 - conferencista_foto: images/companies/gruposalinas.svg
   conferencista_linkedin: Grupo Salinas
   conferencista_nombre:  Grupo Salinas
-  conferencia_nombre: Plática Grupo Salinas
+  conferencia_nombre: "Sesión de atracción de talento Grupo Salinas."
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Plática Grupo Salinas
@@ -181,7 +181,7 @@ platicas:
 - conferencista_foto: images/companies/motaengine.png
   conferencista_linkedin: Mota-Engil
   conferencista_nombre:  Mota-Engil
-  conferencia_nombre: Reclutamiento Mota-Engil
+  conferencia_nombre: "Sesión de atracción de talento Mota-Engil."
   conferencia_hora: 10:00 – 12:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  Reclutamiento Mota-Engil
@@ -197,7 +197,7 @@ platicas:
 - conferencista_foto: images/companies/gmexico.svg
   conferencista_linkedin: ""
   conferencista_nombre: Grupo México
-  conferencia_nombre: "¡Forma parte de nuestra nueva generación!"
+  conferencia_nombre: "Sesión de atracción de talento Grupo México."
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Únete y desarrolla tu talento con nosotros"
@@ -213,7 +213,7 @@ platicas:
 - conferencista_foto: images/companies/ey_logo.png
   conferencista_linkedin: ey
   conferencista_nombre: EY
-  conferencia_nombre: "Talento de la Facultad de Ingeniería"
+  conferencia_nombre: "Sesión de atracción de talento Ey."
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Forma parte de nuestra nueva generación!"
@@ -230,7 +230,7 @@ platicas:
 - conferencista_foto: images/companies/zte.png
   conferencista_linkedin: ZTE
   conferencista_nombre: "ZTE"
-  conferencia_nombre: "Sesión de reclutamiento"
+  conferencia_nombre: "Sesión de atracción de talento ZTE."
   conferencia_hora: 16:00 – 18:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Sesión de reclutamiento"
@@ -246,7 +246,7 @@ platicas:
 - conferencista_foto: images/companies/LiverpoolColor.png
   conferencista_linkedin: Puerto de Liverpool
   conferencista_nombre:  Puerto de Liverpool
-  conferencia_nombre: Plática Puerto de Liverpool
+  conferencia_nombre: "Sesión de atracción de talento Puerto de Liverpool."
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Puerto de Liverpool
@@ -263,7 +263,7 @@ platicas:
 - conferencista_foto: images/companies/micron.png
   conferencista_linkedin: Micron
   conferencista_nombre: Micron
-  conferencia_nombre: Micron
+  conferencia_nombre: "Sesión de atracción de talento Micron."
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Micron
