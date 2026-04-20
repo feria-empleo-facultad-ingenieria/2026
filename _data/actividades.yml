@@ -105,7 +105,7 @@ actividades:
 - mes: Mayo
   dia: 12
   nombre: EY
-  shortName: "Sesión de atracción de talento Ey"
+  shortName: "Sesión de atracción de talento EY"
   hora: 14:00 – 16:00 
   lugar: Auditorio
   recinto: Auditorio "Javier Barros Sierra"
@@ -123,7 +123,7 @@ actividades:
 - mes: Mayo
   dia: 11
   nombre: "Techint Ingeniería y Construcción"
-  shortName: "Sesión de atracción de talento Techint"
+  shortName: "Sesión de atracción de talento Techint Ingeniería y Construcción"
   hora: 12:00 – 14:00 
   lugar: Aula Magna
   recinto: Aula Magna

@@ -115,7 +115,7 @@ platicas:
 - conferencista_foto: images/companies/techint.jpeg
   conferencista_linkedin: Techint Ingeniería y Construcción
   conferencista_nombre: Techint Ingeniería y Construcción
-  conferencia_nombre: "Sesión de atracción de talento Techint."
+  conferencia_nombre: "Sesión de atracción de talento Ingeniería y Construcción."
   conferencia_hora: 12:00 – 14:00
   conferencia_lugar: Aula Magna
   conferencia_abstract:  Reclutamiento Techint
@@ -211,9 +211,9 @@ platicas:
   image_flyer: ""
 
 - conferencista_foto: images/companies/ey_logo.png
-  conferencista_linkedin: ey
+  conferencista_linkedin: EY
   conferencista_nombre: EY
-  conferencia_nombre: "Sesión de atracción de talento Ey."
+  conferencia_nombre: "Sesión de atracción de talento EY."
   conferencia_hora: 14:00 – 16:00
   conferencia_lugar: Auditorio "Javier Barros Sierra"
   conferencia_abstract:  "Forma parte de nuestra nueva generación!"
