@@ -237,14 +237,14 @@ companies:
 #   heightStyle: height:50px
 #   column: 1
 
-- siteurl: https://www.azvi.es/
-  logourl: images/companies/azvi.png
+- siteurl: https://construccionesurales.mx/
+  logourl: images/companies/urales.jpeg
   name: Construcciones Urales
   logoBanner: 40px
   logoCard: 40px
   carreras: TODAS LAS CARRERAS
-  teaser: "Construye una carrera de éxito con nosotros Unirse a nuestro equipo significa trabajar con personas excepcionales, cada una de las cuales es esencial para mantener nuestra cultura de empresa."
-  abstract: "Formar parte de Azvi es vincularse a una empresa centenaria, con proyectos innovadores y desafiantes, en constante expansión y que apuesta por el talento sin límites. Azvi es una empresa claramente comprometida con el empleo estable y de calidad que realiza importantes esfuerzos por mantener y mejorar las condiciones que garantizan un buen entorno laboral."
+  teaser: "Únete a nuestro equipo y pasarás a formar parte de una compañía comprometida con la igualdad de oportunidades, la calidad del empleo, la diversidad y la inclusión."
+  abstract: "Formar parte de Construcciones Urales y Grupo Azvi significa pertenecer a una empresa de origen centenarios, diversificada y sostenible que lleva a cabo proyectos innovadores y desafiantes en todo el mundo, en constante crecimiento con una apuesta decidida por el talento de sus equipos."
   stand: S/A
   height1: 25px
   height: 50px
