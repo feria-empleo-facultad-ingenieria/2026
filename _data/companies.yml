@@ -950,6 +950,22 @@ companies:
   heightStand: 30px
   heightStyle: height:50px
   column: 2
+
+- siteurl: https://www.roc-taiwan.org/mx_es/index.html
+  logourl: images/companies/taipei.jpeg
+  logoCard: 30px
+  logoBanner: 30px
+  name: Oficina Económica y Cultural de Taipei en México
+  carreras: TODAS LAS CARRERAS
+  teaser: "Es un placer darles la bienvenida a la página de internet de la Oficina Económica y Cultural de Taipei (Taiwán) en México."
+  abstract: "En un mundo cada vez más digitalizado, estamos convencidos de que, a través de este sitio, podemos conocer las actividades que realizamos en áreas tan diversas como el comercio, la economía, la política, la educación, la cultura y el turismo, entre otras."
+  stand: S/A
+  height1: 25px
+  height: 40px
+  heightStand: 30px
+  heightStyle: height:50px
+  column: 2
+
  
 # # - siteurl: http://canalempleo.sacyr.com/
 # #   logourl: images/companies/sacyr2.jpg
