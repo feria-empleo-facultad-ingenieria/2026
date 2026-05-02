@@ -936,20 +936,20 @@ companies:
   column: 2
  
 
-- siteurl: http://www.pg.com/es_LATAM/MX/
-  logourl: images/companies/pg.jpg
-  logoCard: 30px
-  logoBanner: 30px
-  name: Procter & Gamble
-  carreras: TODAS LAS CARRERAS
-  teaser: Day 1. It’s something everyone experiences when they join a new company, whether they’re
-  abstract: Day 1. It’s something everyone experiences when they join a new company, whether they’re a student, a recent graduate or a seasoned professional. P&G’s Day 1 starts with you doing something that matters – making an impact on the world, P&G brands, and your career.
-  stand: S/A
-  height1: 25px
-  height: 40px
-  heightStand: 30px
-  heightStyle: height:50px
-  column: 2
+# - siteurl: http://www.pg.com/es_LATAM/MX/
+#   logourl: images/companies/pg.jpg
+#   logoCard: 30px
+#   logoBanner: 30px
+#   name: Procter & Gamble
+#   carreras: TODAS LAS CARRERAS
+#   teaser: Day 1. It’s something everyone experiences when they join a new company, whether they’re
+#   abstract: Day 1. It’s something everyone experiences when they join a new company, whether they’re a student, a recent graduate or a seasoned professional. P&G’s Day 1 starts with you doing something that matters – making an impact on the world, P&G brands, and your career.
+#   stand: S/A
+#   height1: 25px
+#   height: 40px
+#   heightStand: 30px
+#   heightStyle: height:50px
+#   column: 2
 
 - siteurl: https://www.roc-taiwan.org/mx_es/index.html
   logourl: images/companies/taiwan.jpeg
