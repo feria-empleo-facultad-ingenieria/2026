@@ -1285,20 +1285,20 @@ companies:
 # #   column: 2
 
 
-- siteurl: https://b2b.wonderfulpistachios.com/
-  logourl: images/companies/wonderful.jpeg
-  logoCard: 30px
-  logoBanner: 30px
-  name: Wonderful Pistachios
-  carreras: TODAS LAS CARRERAS
-  teaser: "The Wonderful Company makes the world a better and healthier place through our uncompromising" 
-  abstract: "The Wonderful Company makes the world a better and healthier place through our uncompromising, iconic brands, our commitment to the development and well-being of our employees, and our unique philanthropic efforts in the communities we serve."
-  stand: S/A
-  height1: 20px
-  height: 30px
-  heightStand: 20px
-  heightStyle: height:40px
-  column: 2
+# - siteurl: https://b2b.wonderfulpistachios.com/
+#   logourl: images/companies/wonderful.jpeg
+#   logoCard: 30px
+#   logoBanner: 30px
+#   name: Wonderful Pistachios
+#   carreras: TODAS LAS CARRERAS
+#   teaser: "The Wonderful Company makes the world a better and healthier place through our uncompromising" 
+#   abstract: "The Wonderful Company makes the world a better and healthier place through our uncompromising, iconic brands, our commitment to the development and well-being of our employees, and our unique philanthropic efforts in the communities we serve."
+#   stand: S/A
+#   height1: 20px
+#   height: 30px
+#   heightStand: 20px
+#   heightStyle: height:40px
+#   column: 2
  
 - siteurl: https://www.zte.com.cn/global/
   logourl: images/companies/logozte.png
