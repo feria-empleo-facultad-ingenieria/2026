@@ -276,20 +276,20 @@ platicas:
   image_height: 40px
   image_flyer: ""
 
-- conferencista_foto: images/companies/escudo.gif
-  conferencista_linkedin: FI - UNAM
-  conferencista_nombre:  FI - UNAM
-  conferencia_nombre: Plática FI - UNAM
-  conferencia_hora: 16:00 – 18:00
-  conferencia_lugar: Aula Magna
-  conferencia_abstract:  Plática FI - UNAM
-  conferencia_empresa: FI - UNAM
-  conferencia_fecha: 12 Mayo 2026
-  mes: Mayo
-  dia: 12
-  place_index: 2
-  image_width: 80
-  image_height: 40px
-  image_flyer: ""
+# - conferencista_foto: images/companies/escudo.gif
+#   conferencista_linkedin: FI - UNAM
+#   conferencista_nombre:  FI - UNAM
+#   conferencia_nombre: Plática FI - UNAM
+#   conferencia_hora: 16:00 – 18:00
+#   conferencia_lugar: Aula Magna
+#   conferencia_abstract:  Plática FI - UNAM
+#   conferencia_empresa: FI - UNAM
+#   conferencia_fecha: 12 Mayo 2026
+#   mes: Mayo
+#   dia: 12
+#   place_index: 2
+#   image_width: 80
+#   image_height: 40px
+#   image_flyer: ""
 
 

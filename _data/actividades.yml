@@ -165,14 +165,14 @@ actividades:
   recinto: Aula Magna
   place_index: 2
 
-- mes: Mayo
-  dia: 12
-  nombre: "FI - UNAM"
-  shortName: "FI - UNAM"
-  hora: 14:00 – 16:00 
-  lugar: Aula Magna
-  recinto: Aula Magna
-  place_index: 2
+# - mes: Mayo
+#   dia: 12
+#   nombre: "FI - UNAM"
+#   shortName: "FI - UNAM"
+#   hora: 14:00 – 16:00 
+#   lugar: Aula Magna
+#   recinto: Aula Magna
+#   place_index: 2
 
 # - mes: Mayo
 #   dia: 12
